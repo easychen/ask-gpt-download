@@ -1,5 +1,7 @@
 # Ask GPT 浏览器插件下载
 
+> 已经上架微软商店，Edge用户可[点此安装](https://microsoftedge.microsoft.com/addons/detail/ask-gpt/lcahhljmnnahidjfdbbmnpacblffdkeb)
+
 ASK GPT 是一个向微博账号提问的GPT插件。它首先将用户的问题分解为关键字，通过微博搜索到微博内容，再将内容提供给GPT，最后由GPT输出内容。
 
 使用方式：
